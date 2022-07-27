@@ -1,0 +1,17 @@
+{
+  "name": "elm-zen-css-bootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "upgrade": "./lib/upgrade.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "change-case": "^4.1.2",
+    "commander": "^9.4.0",
+    "css-simple-parser": "^3.0.0"
+  }
+}
